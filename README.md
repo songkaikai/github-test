@@ -1,11 +1,11 @@
 # github-test
-webpack-plugin
+webpack-config
 
-Æô¶¯²½Öè
-°²×° nodejs
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½×° nodejs
 
-ÃüÁîĞĞµ½µ±Ç°Ä¿Â¼
-npm install  °²×°ÒÀÀµ
-npm run dev Æô¶¯ÏîÄ¿
-npm run build ´ò°üÏîÄ¿
-npm run prod Æô¶¯´ò°üºóµÄÏîÄ¿
+ï¿½ï¿½ï¿½ï¿½ï¿½Ğµï¿½ï¿½ï¿½Ç°Ä¿Â¼
+npm install  ï¿½ï¿½×°ï¿½ï¿½ï¿½ï¿½
+npm run dev ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿
+npm run build ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿
+npm run prod ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿
