@@ -1,5 +1,4 @@
-# github-test
-webpack-config
+#webpack-config
 ========
 因为webpack是基于nodejs来运行的 所以你得先安装 nodejs
 [nodejs地址](https://nodejs.org/en/)
